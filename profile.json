@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "login": "bulba2280",
+  "seed": "#5185F2",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "about",
+    "streak",
+    "stats"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm>>",
+    "name": "SleshMen",
+    "subtitle": "I'm a systems programmer, learning C and using Python, making small pet projects :3",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "С-lang · TypeScript · Python"
+      },
+      {
+        "icon": "brand:fedora",
+        "label": "Linux Fedora"
+      },
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": ""
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:c",
+            "label": "С-lang"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VScodium"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "CBF",
+      "ForgeTS-",
+      "bulbaShell",
+      "BulbaAI"
+    ],
+    "overrides": {
+      "GAT": {
+        "shape": "gem"
+      },
+      "bulbaShell": {
+        "icon": "brand:dotnet"
+      },
+      "CBF": {
+        "shape": "soft",
+        "icon": "brand:c"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
